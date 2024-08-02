@@ -1,1 +1,7 @@
 
+venv/
+EVN/
+evn.bak/
+venv.bak/
+.evn
+.venv
